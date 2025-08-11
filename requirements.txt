@@ -1,0 +1,9 @@
+fastapi==0.116.0
+uvicorn
+openai
+google-generativeai
+python-dotenv
+sarvamai
+pytest
+starlette==0.46.0
+elevenlabs
